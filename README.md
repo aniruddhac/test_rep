@@ -11,3 +11,8 @@ this is a test repository
 ### Header 3
 
 ~~Mistaken text.~~
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
