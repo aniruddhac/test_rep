@@ -9,3 +9,5 @@ this is a test repository
 # Header 1
 ## Header 2
 ### Header 3
+
+~~Mistaken text.~~
